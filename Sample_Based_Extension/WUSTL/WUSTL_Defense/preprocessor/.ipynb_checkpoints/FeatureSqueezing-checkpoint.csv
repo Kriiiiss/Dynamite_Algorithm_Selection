@@ -1,5 +1,0 @@
-model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
-,,,,,,,,,,,,,
-model,attack_model,epsilon,Accuracy,Macro Precision,Weighted Precision,Macro Recall,Weighted Recall,Macro F1,Weighted F1,TPR,FNR,TNR,FPR
-,,,,,,,,,,,,,
-DNN,Baseline,0,0.9996649256763266,0.9909361334146615,0.9996796610794622,0.8949020138918613,0.9996649256763266,0.9346481931245328,0.999660145624935,0.8949020138918613,0.10509798610813872,0.9999324133820016,6.758661799841062e-05
